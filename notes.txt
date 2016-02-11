@@ -1,0 +1,3 @@
+- arquivo md para apresentar;
+
+- mergear com o arquivo local;
